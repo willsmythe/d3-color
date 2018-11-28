@@ -1,5 +1,7 @@
 # d3-color
 
+[![Build Status](https://dev.azure.com/d3/d3/_apis/build/status/d3.d3-color)](https://dev.azure.com/d3/d3/_build/definition?definitionId=13)
+
 Even though your browser understands a lot about colors, it doesn’t offer much help in manipulating colors through JavaScript. The d3-color module therefore provides representations for various color spaces, allowing specification, conversion and manipulation. (Also see [d3-interpolate](https://github.com/d3/d3-interpolate) for color interpolation.)
 
 For example, take the color named “steelblue”:
